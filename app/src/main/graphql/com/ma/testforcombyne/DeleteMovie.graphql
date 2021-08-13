@@ -1,0 +1,10 @@
+mutation deleteMovie($input: DeleteMovieInput!) {
+	deleteMovie(input: $input) {
+		movie {
+			id,
+			title,
+			releaseDate,
+			seasons
+		}
+	}
+}

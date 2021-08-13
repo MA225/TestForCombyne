@@ -1,0 +1,10 @@
+mutation updateMovie($movie: UpdateMovieInput!) {
+	updateMovie(input: $movie) {
+		movie {
+			id,
+			title,
+			releaseDate,
+			seasons
+		}
+	}
+}

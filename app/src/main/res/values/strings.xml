@@ -1,0 +1,33 @@
+<resources>
+
+	<string name="app_name">TV SHOW MANAGER</string>
+
+	<!-- Common -->
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+
+	<string name="add_new_tv_show">Add New TV Sow</string>
+	<string name="show_list_of_added_tv_shows">Show List of Added TV Shows</string>
+
+	<string name="title">Title</string>
+	<string name="release_date">Release Date</string>
+	<string name="seasons">Seasons</string>
+	<string name="save">Save TV Show</string>
+
+	<!-- Alert -->
+	<string name="press_again_to_exit">Press again to exit.</string>
+	<string name="no_movies_found">No Movies Found.</string>
+	<string name="added_successfully">Added successfully.</string>
+	<string name="saved_successfully">Saved successfully.</string>
+	<string name="deleted_successfully">Deleted successfully.</string>
+	<string name="unexpected_error">Unexpected error occurs.</string>
+
+	<!-- Confirm -->
+	<string name="confirm_delete">Are you sure you would like to delete this?</string>
+
+	<!-- Format -->
+	<string name="date_format">%1$td/%1$tm/%1$tY</string>
+
+</resources>

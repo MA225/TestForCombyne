@@ -1,0 +1,12 @@
+query getMovies {
+	movies {
+		edges {
+			node {
+				id,
+				title,
+				releaseDate,
+				seasons
+			}
+		}
+	}
+}

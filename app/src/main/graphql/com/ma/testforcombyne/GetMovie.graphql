@@ -1,0 +1,8 @@
+query getMovie($id: ID!) {
+	movie(id:$id) {
+		id,
+		title,
+		releaseDate,
+		seasons
+	}
+}
